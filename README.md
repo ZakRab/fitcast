@@ -8,6 +8,10 @@ Welcome to **FitCast**, your personal digital wardrobe assistant! FitCast helps 
 - **Weather Integration**: Retrieves current weather conditions via a RESTful API.
 - **Outfit Suggestions**: Provides daily outfit suggestions based on real-time weather data.
 
+
+https://github.com/user-attachments/assets/bfb59c4d-51d9-4f74-bae7-a0273b20a42c
+
+
 ## Getting Started
 
 ### Prerequisites
